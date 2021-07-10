@@ -12,7 +12,7 @@ by this project and/or its contributors are property of their respective
 trademark holders. This project and its contributors are not affiliated
 with, endorsed by, partnered with, or supported by "Tsinghua Holdings
 Co. Ltd.", "Tsinghua Tongfang Company", "Tongfang Global Limited", or
-other entities (e.g. trademark holders) or their affiliates /
+other entities (e.g., trademark holders) or their affiliates /
 subsidiaries / partnerships.
 
 Please contact the contributors and/or [submit an issue][2] for any
