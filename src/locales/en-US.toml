@@ -1,0 +1,8 @@
+nothing = "nobody"
+
+[test]
+that = "this"
+
+[fruits]
+red = "apple"
+yellow = "banana"

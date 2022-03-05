@@ -8,3 +8,6 @@ edition = "2018"
 [dependencies]
 clap = "2.33.3"
 rusb = "^0.8.1"
+rust-embed = "^5.9.0"
+sys-locale = "^0.1.0"
+toml = "^0.5.8"

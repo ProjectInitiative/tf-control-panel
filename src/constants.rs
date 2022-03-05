@@ -3,6 +3,8 @@ pub static APP_NAME: &str = "Tongfang control panel";
 pub static AUTHORS: &str = "Kyle Petryszak, Andrew Gu";
 pub static ABOUT_DESC: &str = "Utility to control Tongfang laptops/hardware";
 
+pub static DEFAULT_LOCALE: &str = "en-US";
+
 //options
 
 // verbosity
